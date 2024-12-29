@@ -8,14 +8,67 @@
   <code><a href="https://www.linkedin.com/in/akarshmi/" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/akarshmi" title="HackerRank Profile"><img width="22" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/akarshmi/" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"> Instagram</a></code>
+<br><br><br>
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akarshmi.akarshmi&"  />
+</div>
 </h5>
 
 
 
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<p align="left">👋 Hi there! I'm Akarsh Mishra, a computer science student with skills in web development and Java, focused on delivering impactful
+results through creativity, user-centric problem-solving, and seamless collaboration. Proficient in project
+management and leveraging modern tools to enhance user satisfaction and streamline processes.<br><br> 
+  
+  
+  
+  <h3>🔹 What I Do:</h3>Design and implement engaging, user-friendly web applications using HTML, CSS, and JavaScript.<br>Collaborate with teams to design scalable and maintainable system software solutions.<br>Stay updated with emerging technologies to incorporate innovative features into projects.<br>
+  <br> <h3>🔹 Current Projects:</h3>Working on a Google Drive Clone with woriking Backend.<br>Building a personal portfolio to showcase my projects using React and other Farmeworks.<br>'Naradly' a anonymmous chat application which might connect two totally anonymous person to another.<br><br> <h3>🔹 Skills:</h3>React<br>Java<br>HTML / CSS<br>JavaScript<br>Node.js / PHP<br>Express.js<br>SQL / MySQL<br>Problem Solving<br>Data Structures & Algorithms<br>Web Development<br>Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
+  <br><br>
+</div>
+
+<hr>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
