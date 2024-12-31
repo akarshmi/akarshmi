@@ -95,20 +95,29 @@ management and leveraging modern tools to enhance user satisfaction and streamli
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/akarshmi/ATM_Interface" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=ATM_Interface&theme=react&border_color=61dafb&border_radius=10" alt="ATM Interface" "></a>
-  <br/><br/><br/><a align="right" href="https://github.com/akarshmi/Number_Guess_Game" title="Number Guess Game">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Number_Guess_Game&theme=react&border_color=61dafb&border_radius=10" alt="Number Guess Game""></a>
+  
+  <br/><br/><br/>
+    <a align="right" href="https://github.com/akarshmi/College-Management-System" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=College-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
+    
+
 </div>
 <br/><br/><br/>
+<br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/akarshmi/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/akarshmi/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/akarshmi/Naradly-public" title="Naradly-public"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Naradly-public&theme=react&border_color=61dafb&border_radius=10"></a>
+  <br/><br/><br/><br/>
+  <a align="right" href="https://github.com/akarshmi/Number_Guess_Game" title="Number Guess Game">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Number_Guess_Game&theme=react&border_color=61dafb&border_radius=10" alt="Number Guess Game""></a>
+<br/><br/><br/>
+  <br/><br/><br/>
 </div>
-<br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/akarshmi/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <br/><br/><br/><br/><br/><br/>
   <a align="right" href="https://github.com/akarshmi/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
