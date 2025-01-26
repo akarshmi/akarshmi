@@ -98,10 +98,9 @@ management and leveraging modern tools to enhance user satisfaction and streamli
   
   <br/><br/><br/>
     <a align="right" href="https://github.com/akarshmi/College-Management-System" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=College-Management-System&theme=react&border_color=61dafb&border_radius=10"></a>
-    
-
 </div>
 <br/><br/><br/>
+
 <br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/akarshmi/Naradly-public" title="Naradly-public"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Naradly-public&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -109,13 +108,12 @@ management and leveraging modern tools to enhance user satisfaction and streamli
   <a align="right" href="https://github.com/akarshmi/Number_Guess_Game" title="Number Guess Game">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Number_Guess_Game&theme=react&border_color=61dafb&border_radius=10" alt="Number Guess Game""></a>
 <br/><br/><br/>
-  <br/><br/><br/>
 </div>
-  <br/><br/><br/>
+ 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/akarshmi/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/akarshmi/Bucket_List" title="BUCKET LIST USING JAVA(CUI)"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Bucket_List&theme=react&border_color=61dafb&border_radius=10"></a>
   <br/><br/><br/><br/><br/><br/>
-  <a align="right" href="https://github.com/akarshmi/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/akarshmi/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 
 
