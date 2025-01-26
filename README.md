@@ -26,7 +26,7 @@ management and leveraging modern tools to enhance user satisfaction and streamli
   
   
   
-  <h3>🔹 What I Do:</h3>Design and implement engaging, user-friendly web applications using HTML, CSS, and JavaScript.<br>Collaborate with teams to design scalable and maintainable system software solutions.<br>Stay updated with emerging technologies to incorporate innovative features into projects.<br>
+  <h3>🔹 What I Do:</h3>Design and implement engaging, user-friendly web applications using HTML, CSS, and JavaScript.<br>Emerging Java Full-Stack developer passionate about building innovative, scalable software solutions through continuous learning and technological excellence.<br>Collaborate with teams to design scalable and maintainable system software solutions.<br>Stay updated with emerging technologies to incorporate innovative features into projects.<br> 
   <br> <h3>🔹 Current Projects:</h3>Working on a Google Drive Clone with woriking Backend.<br>Building a personal portfolio to showcase my projects using React and other Farmeworks.<br>'Naradly' a anonymmous chat application which might connect two totally anonymous person to another.<br><br> <h3>🔹 Skills:</h3>React<br>Java<br>HTML / CSS<br>JavaScript<br>Node.js / PHP<br>Express.js<br>SQL / MySQL<br>Problem Solving<br>Data Structures & Algorithms<br>Web Development<br>Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
 
 ###
