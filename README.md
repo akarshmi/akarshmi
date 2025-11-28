@@ -18,7 +18,7 @@ Hey there! I'm **Akarsh Mishra**, a passionate **Full-Stack Developer** and **Co
 
 ```typescript
 const akarsh: Developer = {
-  education: "Bachelor of Computer Applications",
+  education: "Master's of Computer Applications",
   location: "India 🇮🇳",
   
   coreSkills: {
