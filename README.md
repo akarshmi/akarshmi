@@ -1,378 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akarsh%20Mishra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Innovation%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:1a1040,100:0f0c29&height=200&section=header&text=Akarsh%20Mishra&fontSize=52&fontColor=e2c97e&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Security%20%7C%20MCA%20Student&descAlignY=58&descSize=16&descColor=c4b8e8"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications+%F0%9F%9A%80;Passionate+about+clean+code+%26+best+practices+%E2%9C%A8;Turning+ideas+into+elegant+solutions+%F0%9F%92%A1;Open+source+contributor+%26+lifelong+learner+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=e2c97e&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+backend+systems+%F0%9F%94%90;Spring+Boot+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+OAuth2;500%2B+problems+solved+%E2%9A%A1;Top+10+%2F+200%2B+teams+%E2%80%94+Smart+India+Hackathon+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-akarshmi.vercel.app-ffffff?style=flat-square&logo=safari&logoColor=ffffff&labelColor=6d28d9)](https://akarshmi.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akarshmi-7c6fe0?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1040)](https://www.linkedin.com/in/akarshmi/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-akarshmi.am@gmail.com-e05c5c?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1040)](mailto:akarshmi.am@gmail.com)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-akarshmi-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=1a1040)](https://www.hackerrank.com/akarshmi)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-<img align="right" alt="Akarsh Mishra" width="300" style="border-radius: 50%; border: 3px solid #00D9FF;" src="https://avatars.githubusercontent.com/u/155228025?s=400&u=7e4b2398cedab3dbf146f8887425a8ea08d847d8&v=4">
+Full-stack developer pursuing a Master's in Computer Applications, with a strong backend focus — security architecture, REST API design, and scalable microservices. I've shipped production systems with Spring Boot and Next.js, built reusable auth frameworks, and led teams under pressure.
 
-Hey there! I'm **Akarsh Mishra**, a passionate **Full-Stack Developer** and **Computer Science student** from India 🇮🇳. I love building innovative web applications that solve real-world problems and create meaningful user experiences.
-
-### 🎯 Quick Facts
-
-```typescript
-const akarsh: Developer = {
-  education: "Master's of Computer Applications",
-  location: "India 🇮🇳",
-  
-  coreSkills: {
-    languages: ["Java", "JavaScript", "TypeScript", "Python", "SQL"],
-    frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Spring Boot", "Socket.io"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    cloud: ["AWS", "Docker", "Firebase"]
-  },
-  
-  currentlyLearning: [
-    "Advanced React patterns & performance optimization",
-    "Machine Learning & AI integration",
-    "Cloud-native architectures & DevOps",
-    "System design & scalability patterns"
-  ],
-  
-  focusAreas: [
-    "Building scalable full-stack applications",
-    "Writing clean, maintainable code",
-    "Contributing to open source",
-    "Continuous learning & growth"
-  ],
-  
-  motto: "Code with purpose, learn continuously, impact positively! 🚀"
-};
+```yaml
+name       : Akarsh Mishra
+location   : Gonda, Uttar Pradesh, India
+education  : Master of Computer Applications (MCA)
+focus      : Backend Security · Microservices · Full-Stack Development
+currently  : Building Scholar Forge — peer-reviewed academic marketplace
 ```
 
-<br clear="right"/>
+- 🔐 Deep interest in **OAuth2, JWT, RBAC, Spring Security**
+- 🏆 **Top 10 / 200+ teams** — Smart India Hackathon 2025
+- ⚡ **500+ problems** solved across competitive platforms
+- 🚀 3 production apps shipped in the last 12 months
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+[![skillicons](https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark)](https://skillicons.dev)
 
-### ⚡ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Frontend**
 
-### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![skillicons](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,framermotion&theme=dark)](https://skillicons.dev)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+**Backend & Security**
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![skillicons](https://skillicons.dev/icons?i=spring,nodejs,express,flask,hibernate&theme=dark)](https://skillicons.dev)
+
+**Databases & Cloud**
+
+[![skillicons](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis,aws,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects & Work
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 💬 Naradly 2.0
-**Anonymous Real-Time Chat Platform**
+### 🎓 Scholar Forge
+**Academic Marketplace Platform** &nbsp;·&nbsp; `Jan – Mar 2026`
 
-A modern chat application featuring real-time communication, room management, and anonymous messaging capabilities.
+Students publish, discover, and peer-review academic projects with structured feedback. Built with multi-provider OAuth2 + JWT dual-token rotation and a full microservices backend.
 
-**🛠️ Tech Stack:**
-- React & Socket.io
-- Redis & Firebase
-- Real-time messaging
+> ↑ **35% faster** queries &nbsp;·&nbsp; **50+ reviewers** supported
 
-**📊 Status:** 🧪 Beta Testing
+![Next.js](https://img.shields.io/badge/Next.js-eeeeee?style=flat-square&logo=nextdotjs&logoColor=1a1040)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5a8ab0?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-e2c97e?style=flat-square&logo=jsonwebtokens&logoColor=1a1040)
 
-[![View Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarshmi/Naradly-public)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🎨 DevPortfolio
-**Interactive 3D Portfolio Website**
+### 🔐 Authentication Framework
+**Spring Boot Security Backbone** &nbsp;·&nbsp; `Jan – Feb 2026`
 
-A stunning portfolio showcasing projects with smooth animations, 3D effects, and modern design principles.
+Production-ready, reusable auth system for microservices. RBAC across 15+ endpoints, BCrypt hashing, HTTP-only cookie sessions, and zero-downtime CI/CD pipelines on Render.
 
-**🛠️ Tech Stack:**
-- React & Framer Motion
-- Email.js Integration
-- Responsive Design
+> ↓ **40% integration time** &nbsp;·&nbsp; **Zero** unauthorized access
 
-**📊 Status:** ✅ Live
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-4a8c3f?style=flat-square&logo=springsecurity&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-7c6fe0?style=flat-square&logoColor=white)
+![Render](https://img.shields.io/badge/Render-4a8c3f?style=flat-square&logo=render&logoColor=white)
 
-[![View Live](https://img.shields.io/badge/View_Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://akarshmi.netlify.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
+[![Live](https://img.shields.io/badge/Live-Demo-4a8c3f?style=flat-square&logo=render&logoColor=white)](https://github.com/akarshmi)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🤖 SpecScoreX
-**ML-Powered Performance Analyzer**
+### 📝 Note Taking App
+**Full-Stack SaaS Platform** &nbsp;·&nbsp; `Jan – Mar 2025`
 
-An intelligent system performance analysis tool using machine learning to provide insights and recommendations.
+JWT-secured note platform with real-time Supabase sync, supporting 100+ concurrent users at sub-second latency. Optimized PostgreSQL queries and fully automated CI/CD on Netlify + Render.
 
-**🛠️ Tech Stack:**
-- Python & Flask
-- FastAPI
-- Machine Learning
+> ↓ **80% deployment effort** &nbsp;·&nbsp; **100+** concurrent users
 
-**📊 Status:** 🔬 In Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1a1040)
+![Flask](https://img.shields.io/badge/Flask-cccccc?style=flat-square&logo=flask&logoColor=1a1040)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=1a1040)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5a8ab0?style=flat-square&logo=postgresql&logoColor=white)
 
-[![View Live](https://img.shields.io/badge/View_Live-00C853?style=for-the-badge&logo=render&logoColor=white)](https://specscorex.onrender.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 ATM Interface System
-**Secure Banking Simulation**
-
-A comprehensive ATM interface with secure authentication, transaction management, and database integration.
-
-**🛠️ Tech Stack:**
-- Java & MySQL
-- Swing GUI
-- Security Features
-
-**📊 Status:** ✅ Completed
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarshmi/ATM_Interface)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
+[![Live](https://img.shields.io/badge/Live-Demo-4a8c3f?style=flat-square&logo=render&logoColor=white)](https://github.com/akarshmi)
 
 </td>
-</tr>
-</table>
+<td valign="top" width="50%">
 
-### 🌟 More Projects on GitHub
+### 🌐 DevPortfolio
+**Interactive Personal Portfolio** &nbsp;·&nbsp; `Live`
 
-<a href="https://github.com/akarshmi/College-Management-System">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=College-Management-System&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</a>
-<a href="https://github.com/akarshmi/Number_Guess_Game">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=akarshmi&repo=Number_Guess_Game&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-</a>
+3D elements, smooth scroll animations, and a responsive design system crafted with Framer Motion. Contact form integrated via Email.js.
 
-</div>
+> ✅ **Live on Netlify** &nbsp;·&nbsp; Fully responsive
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1a1040)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-9d6fe0?style=flat-square&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-## 📊 GitHub Statistics & Activity
+[![Live](https://img.shields.io/badge/Portfolio-Visit_Site-e2c97e?style=flat-square&logo=netlify&logoColor=1a1040)](https://akarshmi.vercel.app)
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akarshmi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akarshmi&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakLabel=C3D1D9" alt="GitHub Streak"/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshmi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=10&hide=html,css" alt="Top Languages"/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarshmi&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area_color=1F6FEB&area=true)](https://github.com/akarshmi)
-
-</div>
-
----
-
-## 🎯 Current Focus & Learning Journey
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📚 Currently Learning
-- Advanced React Patterns
-- Machine Learning & AI
-- AWS Cloud Architecture
-- System Design Principles
-- Performance Optimization
-- Microservices Architecture
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Active Projects
-- **CloudVault** - Cloud storage solution
-- **Naradly 2.0** - Chat platform
-- **SpecScoreX** - ML analyzer
-- **Open Source Contributions**
-- Personal blog & tutorials
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 2025 Goals
-- Build 5+ production apps
-- Contribute to major OSS projects
-- AWS Solutions Architect cert
-- Launch tech blog/YouTube
-- Mentor aspiring developers
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_⭐⭐⭐⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Arctic_Code_Vault_Contributor-181717?style=for-the-badge&logo=github&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Active_Contributor-FF6B6B?style=for-the-badge&logo=opensource&logoColor=white)
-
-### 📈 Key Metrics
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="50"/><br>
-<b>500+</b><br>
-<i>Problems Solved</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/project.png" width="50"/><br>
-<b>15+</b><br>
-<i>Projects Completed</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/calendar.png" width="50"/><br>
-<b>3+</b><br>
-<i>Years Coding</i>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/github.png" width="50"/><br>
-<b>Active</b><br>
-<i>Open Source</i>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 📫 Reach Out to Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshmi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akarshmi.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshmi.am@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akarshmi)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akarshmi/)
-
-### 🤝 Open to Collaborate On
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/><br>
-<b>Full-Stack Web Apps</b><br>
-<i>Modern, scalable solutions</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/><br>
-<b>Cloud Solutions</b><br>
-<i>AWS, Docker, Kubernetes</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br>
-<b>AI/ML Integration</b><br>
-<i>Intelligent applications</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/open-source.png" width="60"/><br>
-<b>Open Source</b><br>
-<i>Community projects</i>
 </td>
 </tr>
 </table>
 
 ---
 
-### 💭 My Development Philosophy
+## 🏆 Leadership & Achievements
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-<b>Clean Code</b><br>
-<i>Readable & maintainable</i>
+<td width="70%" valign="top">
+
+**🥇 Team Lead & Backend Developer · Smart India Hackathon** &nbsp; `Sep 2025`
+
+Led a 5-person cross-functional team (data science, UI/UX, cloud) across a 36-hour national-level hackathon. Designed the REST API, ran Agile sprints, and shipped a complete MVP using React, n8n, and Node.js. Presented technical architecture and business model to the judging panel.
+
+**→ Placed top 10 out of 200+ teams · Recognized for product-market fit**
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="50"/><br>
-<b>User-Centric</b><br>
-<i>Intuitive & accessible</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br>
-<b>Performance</b><br>
-<i>Fast & optimized</i>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/><br>
-<b>Continuous Learning</b><br>
-<i>Always evolving</i>
+<td width="30%" align="center" valign="top">
+
+![Top 10](https://img.shields.io/badge/Top_10-out_of_200+_Teams-e2c97e?style=for-the-badge&labelColor=1a1040)
+
+![SIH](https://img.shields.io/badge/Smart_India-Hackathon_2025-7c6fe0?style=for-the-badge&labelColor=1a1040)
+
 </td>
 </tr>
 </table>
 
-> *"Great software is not just about solving problems—it's about creating experiences that make people's lives better, more efficient, and more enjoyable."*
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| &nbsp; | Certification | Issuer | Year |
+|:---:|---|---|:---:|
+| 🏦 | Software Engineering Virtual Program | Goldman Sachs (Forage) | 2025 |
+| ☁️ | Solutions Architecture | Amazon Web Services | 2024 |
+| 💻 | Software Engineer Intern | HackerRank | 2024 |
+
+</div>
 
 ---
 
-### 📊 Profile Metrics
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=akarshmi&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/akarshmi?label=Followers&style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/akarshmi?label=Total%20Stars&style=for-the-badge&color=yellow)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akarshmi&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=e2c97e&icon_color=7c6fe0&text_color=c4b8e8&bg_color=0f0c29" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akarshmi&theme=transparent&hide_border=true&background=0f0c29&stroke=e2c97e&ring=7c6fe0&fire=e05c5c&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=c4b8e8&currStreakNum=e2c97e&sideNums=e2c97e" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshmi&layout=compact&theme=transparent&hide_border=true&title_color=e2c97e&text_color=c4b8e8&bg_color=0f0c29&langs_count=6&hide=html,css" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarshmi&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=e2c97e&line=7c6fe0&point=e2c97e&area=true&area_color=2d1b69)](https://github.com/akarshmi)
 
 </div>
 
@@ -380,12 +200,12 @@ A comprehensive ATM interface with secure authentication, transaction management
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:1a1040,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-### ⭐ Show some love by starring my repositories!
+*"Build things that matter. Write code that lasts."*
 
-**Made with ❤️ and lots of ☕ by Akarsh Mishra**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akarshmi.akarshmi)
+![Profile Views](https://komarev.com/ghpvc/?username=akarshmi&color=7c6fe0&style=flat-square&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/akarshmi?label=Followers&style=flat-square&color=e2c97e&labelColor=1a1040)
 
 </div>
