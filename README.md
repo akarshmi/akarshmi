@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-akarshmi.vercel.app-ffffff?style=flat-square&logo=safari&logoColor=ffffff&labelColor=6d28d9)](https://akarshmi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akarshmi.dev-ffffff?style=flat-square&logo=safari&logoColor=ffffff&labelColor=6d28d9)](https://akarshmi.dev)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akarshmi-7c6fe0?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1040)](https://www.linkedin.com/in/akarshmi/)
 &nbsp;
