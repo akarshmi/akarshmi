@@ -1,211 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:1a1040,100:0f0c29&height=200&section=header&text=Akarsh%20Mishra&fontSize=52&fontColor=e2c97e&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Security%20%7C%20MCA%20Student&descAlignY=58&descSize=16&descColor=c4b8e8"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:2d1b69,100:0f0c29&height=240&section=header&text=AKARSH%20MISHRA&fontSize=60&fontColor=e2c97e&fontAlignY=42&desc=Backend%20Engineer%20%C2%B7%20Security%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Integration&descAlignY=64&descSize=15&descColor=c4b8e8" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=E2C97E&center=true&vCenter=true&width=720&lines=Designing+secure+authentication+systems;Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+pgvector;Payments%2C+webhooks+and+event-driven+pipelines;Top+10+%2F+200%2B+teams+%E2%80%94+Smart+India+Hackathon+2025)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=e2c97e&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+backend+systems+%F0%9F%94%90;Spring+Boot+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+OAuth2;500%2B+problems+solved+%E2%9A%A1;Top+10+%2F+200%2B+teams+%E2%80%94+Smart+India+Hackathon+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akarshmi.dev-ffffff?style=flat-square&logo=safari&logoColor=ffffff&labelColor=6d28d9)](https://akarshmi.dev)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akarshmi-7c6fe0?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1040)](https://www.linkedin.com/in/akarshmi/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-akarshmi.am@gmail.com-e05c5c?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1040)](mailto:akarshmi.am@gmail.com)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-akarshmi-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=1a1040)](https://www.hackerrank.com/akarshmi)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-akarshmi.dev-e2c97e?style=for-the-badge&labelColor=0f0c29)](https://akarshmi.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-akarshmi-7c6fe0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/akarshmi/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-c4b8e8?style=for-the-badge&logo=gmail&logoColor=c4b8e8&labelColor=0f0c29)](mailto:akarshmi.am@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-akarshmi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0f0c29)](https://www.hackerrank.com/akarshmi)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About
+## `// about`
 
-Full-stack developer pursuing a Master's in Computer Applications, with a strong backend focus — security architecture, REST API design, and scalable microservices. I've shipped production systems with Spring Boot and Next.js, built reusable auth frameworks, and led teams under pressure.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a backend engineer in the making, currently pursuing my **MCA at Lovely Professional University** (graduating 2027). I like the part of software that users never see but always feel: the login that stays secure, the payment that never double-charges, the search that actually finds the right thing.
+
+**What I work on**
+- **Security first:** JWT with revocation, OAuth2, RBAC, hashed OTPs and HttpOnly cookie sessions
+- **Reliable money flows:** webhook-verified payments, idempotent processing, optimistic locking
+- **AI in the backend:** embeddings, vector similarity search and event-driven matching
+- **Clean architecture:** layered services, interface-driven design, secure defaults
+
+**How I work**
+I build complete products, not just endpoints: backend, deployment, docs and a client on top. I've led a 5-person team to a **Top 10 finish out of 200+ teams** at Smart India Hackathon 2025, and I enjoy turning rough ideas into running systems.
+
+**Right now**
+Building **UniTrace**, an AI-powered campus Lost & Found, and **Jobescape**, a self-hostable job aggregator. Looking for backend and software engineering opportunities where I can ship real systems and keep learning.
+
+</td>
+<td width="38%" valign="top">
 
 ```yaml
-name       : Akarsh Mishra
-location   : Gonda, Uttar Pradesh, India
-education  : Master of Computer Applications (MCA)
-focus      : Backend Security · Microservices · Full-Stack Development
-currently  : Building Scholar Forge — peer-reviewed academic marketplace
+name      : Akarsh Mishra
+role      : Backend Engineer
+stack     : Java · Spring Boot
+studying  : MCA, LPU (2027)
+location  : Uttar Pradesh, India
+focus     :
+  - Authentication & security
+  - Payment systems
+  - Vector search & AI
+  - API design
+building  :
+  - UniTrace
+  - Jobescape
+open_to   : Backend roles & internships
 ```
 
-- 🔐 Deep interest in **OAuth2, JWT, RBAC, Spring Security**
-- 🏆 **Top 10 / 200+ teams** — Smart India Hackathon 2025
-- ⚡ **500+ problems** solved across competitive platforms
-- 🚀 3 production apps shipped in the last 12 months
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## `// skills`
 
 <div align="center">
 
 **Languages**
 
-[![skillicons](https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![skillicons](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,framermotion&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,cpp,dart&theme=dark)](https://skillicons.dev)
 
 **Backend & Security**
 
-[![skillicons](https://skillicons.dev/icons?i=spring,nodejs,express,flask,hibernate&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,fastapi,nodejs,express,flask&theme=dark)](https://skillicons.dev)
 
-**Databases & Cloud**
+**Frontend**
 
-[![skillicons](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis,aws,docker&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,framermotion,flutter&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase&theme=dark)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,digitalocean,maven,git,github&theme=dark)](https://skillicons.dev)
+
+<sub>Security & concepts: OAuth2 · JWT (RS256) · RBAC · Argon2 / BCrypt · HMAC · REST API design · Vector search · Microservices</sub>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## `// flagship project`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td>
 
-### 🎓 Scholar Forge
-**Academic Marketplace Platform** &nbsp;·&nbsp; `Jan – Mar 2026`
+### UniTrace &nbsp;·&nbsp; AI-Powered University Lost & Found
+*Campus-scale platform that matches lost and found items with text and image embeddings, with moderated handover at the Security Office.*
 
-Students publish, discover, and peer-review academic projects with structured feedback. Built with multi-provider OAuth2 + JWT dual-token rotation and a full microservices backend.
+```mermaid
+flowchart LR
+    A[Student reports item] --> B[Image to Cloudinary]
+    B --> C[Async embedding job<br/>MiniLM text + CLIP image]
+    C --> D[(PostgreSQL + pgvector)]
+    D --> E[Weighted match scoring<br/>text · image · time]
+    E --> F{Moderator review}
+    F -->|Approve| G[Student notified]
+    G --> H[One-time handover key<br/>Security Office desk]
+    F -->|Reject| I[Match discarded]
+```
 
-> ↑ **35% faster** queries &nbsp;·&nbsp; **50+ reviewers** supported
+| | |
+|---|---|
+| **Matching** | Text + image embeddings, pgvector similarity search, weighted score with event time-window factor |
+| **Pipeline** | Event-driven: matching fires once an item's embeddings are generated |
+| **Privacy** | No contact details shared; moderator approval and one-time handover key for every claim |
+| **Auth** | Email-OTP signup (HMAC-hashed OTPs in Redis, atomic Lua verify), Argon2 passwords, JWT access tokens with JTI-based refresh tokens in HttpOnly cookies |
+| **Roles** | Student · Moderator · Admin |
 
-![Next.js](https://img.shields.io/badge/Next.js-eeeeee?style=flat-square&logo=nextdotjs&logoColor=1a1040)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5a8ab0?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-e2c97e?style=flat-square&logo=jsonwebtokens&logoColor=1a1040)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
-
-</td>
-<td valign="top" width="50%">
-
-### 🔐 Authentication Framework
-**Spring Boot Security Backbone** &nbsp;·&nbsp; `Jan – Feb 2026`
-
-Production-ready, reusable auth system for microservices. RBAC across 15+ endpoints, BCrypt hashing, HTTP-only cookie sessions, and zero-downtime CI/CD pipelines on Render.
-
-> ↓ **40% integration time** &nbsp;·&nbsp; **Zero** unauthorized access
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-4a8c3f?style=flat-square&logo=springsecurity&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-7c6fe0?style=flat-square&logoColor=white)
-![Render](https://img.shields.io/badge/Render-4a8c3f?style=flat-square&logo=render&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
-[![Live](https://img.shields.io/badge/Live-Demo-4a8c3f?style=flat-square&logo=render&logoColor=white)](https://github.com/akarshmi)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### 📝 Note Taking App
-**Full-Stack SaaS Platform** &nbsp;·&nbsp; `Jan – Mar 2025`
-
-JWT-secured note platform with real-time Supabase sync, supporting 100+ concurrent users at sub-second latency. Optimized PostgreSQL queries and fully automated CI/CD on Netlify + Render.
-
-> ↓ **80% deployment effort** &nbsp;·&nbsp; **100+** concurrent users
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1a1040)
-![Flask](https://img.shields.io/badge/Flask-cccccc?style=flat-square&logo=flask&logoColor=1a1040)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=1a1040)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5a8ab0?style=flat-square&logo=postgresql&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1a1040?style=flat-square&logo=github&logoColor=e2c97e)](https://github.com/akarshmi)
-[![Live](https://img.shields.io/badge/Live-Demo-4a8c3f?style=flat-square&logo=render&logoColor=white)](https://github.com/akarshmi)
-
-</td>
-<td valign="top" width="50%">
-
-### 🌐 DevPortfolio
-**Interactive Personal Portfolio** &nbsp;·&nbsp; `Live`
-
-3D elements, smooth scroll animations, and a responsive design system crafted with Framer Motion. Contact form integrated via Email.js.
-
-> ✅ **Live on Netlify** &nbsp;·&nbsp; Fully responsive
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1a1040)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-9d6fe0?style=flat-square&logo=framer&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Portfolio-Visit_Site-e2c97e?style=flat-square&logo=netlify&logoColor=1a1040)](https://akarshmi.vercel.app)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-7c6fe0?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-eeeeee?style=flat-square&logo=nextdotjs&logoColor=0f0c29)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🏆 Leadership & Achievements
+## `// selected work`
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td valign="top" width="50%">
 
-**🥇 Team Lead & Backend Developer · Smart India Hackathon** &nbsp; `Sep 2025`
+#### Unitrix &nbsp;`Event Ticketing`
+Booking backend where tickets are generated only after webhook-confirmed payment.
 
-Led a 5-person cross-functional team (data science, UI/UX, cloud) across a 36-hour national-level hackathon. Designed the REST API, ran Agile sprints, and shipped a complete MVP using React, n8n, and Node.js. Presented technical architecture and business model to the judging panel.
+- Razorpay with HMAC-SHA256 verification on raw request bodies
+- Optimistic locking (`@Version`) on inventory; scheduler expires stale orders
+- OTP-verified registration, password reset, organizer approval workflow
+- Companion **UniTickets** frontend in Next.js and shadcn/ui
 
-**→ Placed top 10 out of 200+ teams · Recognized for product-market fit**
+`Spring Boot` `PostgreSQL` `Razorpay` `JWT`
 
 </td>
-<td width="30%" align="center" valign="top">
+<td valign="top" width="50%">
 
-![Top 10](https://img.shields.io/badge/Top_10-out_of_200+_Teams-e2c97e?style=for-the-badge&labelColor=1a1040)
+#### AuthPlus &nbsp;`Auth Framework`
+Reusable authentication backbone built to drop into microservices.
 
-![SIH](https://img.shields.io/badge/Smart_India-Hackathon_2025-7c6fe0?style=for-the-badge&labelColor=1a1040)
+- JWT (RS256), OAuth2 login, RBAC across 15+ endpoints
+- BCrypt hashing, HTTP-only cookie sessions
+- Zero-downtime deploys on Render
+- Cut integration time by ~40%
+
+`Spring Security` `Next.js` `Redis` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### Jobescape &nbsp;`Job Aggregator`
+Multi-platform job scraper with resume upload that pre-fills search filters. Self-hostable via Docker Compose.
+
+- FastAPI with async scrape jobs and status / results / download endpoints
+- Excel export with application-tracking columns
+
+[`Repository`](https://github.com/akarshmi/jobescape) &nbsp; `Python` `FastAPI` `Next.js`
+
+</td>
+<td valign="top" width="50%">
+
+#### Jobify &nbsp;`Ingestion Service`
+Pluggable job-ingestion backend with run tracking and deduplication.
+
+- `JobSource` abstraction keeps the service independent of any provider
+- Per-run created / updated / skipped counts, failure tracking
+
+`Java` `Spring Boot` `Hibernate` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### QuiLink &nbsp;`URL Shortener`
+Live on a custom domain with click analytics.
+
+- Snowflake IDs with Base62 codes, TTL indexes
+- Atomic click counting in MongoDB Atlas
+- Dockerized deploy on Render
+
+`Spring Boot` `MongoDB` `Next.js`
+
+</td>
+<td valign="top" width="50%">
+
+#### StayLedger &nbsp;`Desktop App`
+Offline-first Windows app for PG and hostel management.
+
+- Occupancy-based rent, deposit ledger with refunds
+- Automatic late fees and overdue reports
+- Encrypted manual backup to Google Drive
+
+`JavaFX` `SQLite` `Java 21`
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+#### Scholar Forge &nbsp;`Academic Marketplace`
+Students publish, discover and peer-review academic projects. Multi-provider OAuth2, JWT dual-token rotation, microservices backend. **35% faster queries**, 50+ reviewers supported. &nbsp; `Next.js` `Spring Boot` `PostgreSQL`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📜 Certifications
+## `// achievements`
 
-<div align="center">
+<table>
+<tr>
+<td width="72%" valign="top">
 
-| &nbsp; | Certification | Issuer | Year |
-|:---:|---|---|:---:|
-| 🏦 | Software Engineering Virtual Program | Goldman Sachs (Forage) | 2025 |
-| ☁️ | Solutions Architecture | Amazon Web Services | 2024 |
-| 💻 | Software Engineer Intern | HackerRank | 2024 |
+**Team Lead & Backend Developer · Smart India Hackathon 2025**
 
-</div>
+Led a 5-person cross-functional team (data science, UI/UX, cloud) through a 36-hour national hackathon. Designed the REST API, ran agile sprints, shipped an MVP with React, n8n and Node.js, and presented architecture and business model to the judging panel.
 
----
+</td>
+<td width="28%" align="center" valign="middle">
 
-## 📊 GitHub Stats
+![Rank](https://img.shields.io/badge/TOP_10-of_200%2B_teams-e2c97e?style=for-the-badge&labelColor=0f0c29)
+![Problems](https://img.shields.io/badge/500%2B-problems_solved-7c6fe0?style=for-the-badge&labelColor=0f0c29)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `// certifications`
+
+| Certification | Issuer | Year |
+|:--|:--|:-:|
+| Software Engineering Virtual Program | Goldman Sachs (Forage) | 2025 |
+| Solutions Architecture | Amazon Web Services | 2024 |
+| Software Engineer Intern | HackerRank | 2024 |
+
+<br/>
+
+## `// github`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akarshmi&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=e2c97e&icon_color=7c6fe0&text_color=c4b8e8&bg_color=0f0c29" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akarshmi&theme=transparent&hide_border=true&background=0f0c29&stroke=e2c97e&ring=7c6fe0&fire=e05c5c&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=c4b8e8&currStreakNum=e2c97e&sideNums=e2c97e" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akarshmi&theme=transparent&hide_border=true&background=0f0c29&stroke=e2c97e&ring=7c6fe0&fire=e2c97e&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=c4b8e8&currStreakNum=e2c97e&sideNums=e2c97e" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshmi&layout=compact&theme=transparent&hide_border=true&title_color=e2c97e&text_color=c4b8e8&bg_color=0f0c29&langs_count=6&hide=html,css" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshmi&layout=compact&theme=transparent&hide_border=true&title_color=e2c97e&text_color=c4b8e8&bg_color=0f0c29&langs_count=6&hide=html,css" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akarshmi&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=e2c97e&line=7c6fe0&point=e2c97e&area=true&area_color=2d1b69)](https://github.com/akarshmi)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:2d1b69,70:1a1040,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0f0c29&height=110&section=footer" width="100%"/>
 
-*"Build things that matter. Write code that lasts."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=akarshmi&color=7c6fe0&style=flat-square&label=Profile+Views)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/akarshmi?label=Followers&style=flat-square&color=e2c97e&labelColor=1a1040)
+*Build things that matter. Write code that lasts.*
 
 </div>
