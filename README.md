@@ -67,15 +67,15 @@ open_to   : Backend roles & internships
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,cpp,dart&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
 **Backend & Security**
 
-[![Backend](https://skillicons.dev/icons?i=spring,hibernate,fastapi,nodejs,express,flask&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,framermotion,flutter&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
