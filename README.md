@@ -38,6 +38,8 @@ Building **UniTrace**, an AI-powered campus Lost & Found, and **Jobescape**, a s
 </td>
 <td width="38%" valign="top">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="coding"/>
+
 ```yaml
 name      : Akarsh Mishra
 role      : Backend Engineer
@@ -65,6 +67,8 @@ open_to   : Backend roles & internships
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420" alt="tech stack"/>
+
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
@@ -75,11 +79,11 @@ open_to   : Backend roles & internships
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
@@ -243,6 +247,8 @@ Led a 5-person cross-functional team (data science, UI/UX, cloud) through a 36-h
 ![Rank](https://img.shields.io/badge/TOP_10-of_200%2B_teams-e2c97e?style=for-the-badge&labelColor=0f0c29)
 ![Problems](https://img.shields.io/badge/500%2B-problems_solved-7c6fe0?style=for-the-badge&labelColor=0f0c29)
 
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="220" alt="pro coder"/>
+
 </td>
 </tr>
 </table>
@@ -262,6 +268,8 @@ Led a 5-person cross-functional team (data science, UI/UX, cloud) through a 36-h
 ## `// github`
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="360" alt="stats"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akarshmi&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=e2c97e&icon_color=7c6fe0&text_color=c4b8e8&bg_color=0f0c29" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akarshmi&theme=transparent&hide_border=true&background=0f0c29&stroke=e2c97e&ring=7c6fe0&fire=e2c97e&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=c4b8e8&currStreakNum=e2c97e&sideNums=e2c97e" />
