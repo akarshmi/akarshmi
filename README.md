@@ -79,11 +79,11 @@ open_to   : Backend roles & internships
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,digitalocean,maven,git,github&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,maven,git,github&theme=dark)](https://skillicons.dev)
 
 <sub>Security & concepts: OAuth2 · JWT (RS256) · RBAC · Argon2 / BCrypt · HMAC · REST API design · Vector search · Microservices</sub>
 
