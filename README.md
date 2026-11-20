@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:2d1b69,100:0f0c29&height=240&section=header&text=AKARSH%20MISHRA&fontSize=60&fontColor=e2c97e&fontAlignY=42&desc=Backend%20Engineer%20%C2%B7%20Security%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Integration&descAlignY=64&descSize=15&descColor=c4b8e8" width="100%"/>
+<h1>Akarsh Mishra</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=E2C97E&center=true&vCenter=true&width=720&lines=Designing+secure+authentication+systems;Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+pgvector;Payments%2C+webhooks+and+event-driven+pipelines;Top+10+%2F+200%2B+teams+%E2%80%94+Smart+India+Hackathon+2025)](https://git.io/typing-svg)
+<p><b>Backend Engineer</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Security</p>
 
-<br/>
+<p>I design the parts of a system users never see but always rely on:<br/>authentication, payments, and search that works.</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-akarshmi.dev-e2c97e?style=for-the-badge&labelColor=0f0c29)](https://akarshmi.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-akarshmi-7c6fe0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/akarshmi/)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-c4b8e8?style=for-the-badge&logo=gmail&logoColor=c4b8e8&labelColor=0f0c29)](mailto:akarshmi.am@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-akarshmi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0f0c29)](https://www.hackerrank.com/akarshmi)
+
+<p>
+<a href="https://akarshmi.dev"><img src="https://img.shields.io/badge/Portfolio-akarshmi.dev-1a1040?style=flat-square&logo=safari&logoColor=e2c97e" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/akarshmi/"><img src="https://img.shields.io/badge/LinkedIn-akarshmi-1a1040?style=flat-square&logo=linkedin&logoColor=e2c97e" alt="LinkedIn"/></a>
+<a href="mailto:akarshmi.am@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1a1040?style=flat-square&logo=gmail&logoColor=e2c97e" alt="Email"/></a>
+<a href="https://www.hackerrank.com/akarshmi"><img src="https://img.shields.io/badge/HackerRank-akarshmi-1a1040?style=flat-square&logo=hackerrank&logoColor=e2c97e" alt="HackerRank"/></a>
+</p>
 
 </div>
 
@@ -69,27 +72,23 @@ open_to   : Backend roles & internships
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420" alt="tech stack"/>
 
-**Languages**
+**Language**
 
-[![Languages](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
-**Backend & Security**
+**Backend**
 
 [![Backend](https://skillicons.dev/icons?i=spring,hibernate&theme=dark)](https://skillicons.dev)
 
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs&theme=dark)](https://skillicons.dev)
-
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
 
-**Cloud & DevOps**
+**Tools & Deployment**
 
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,vercel,maven,git,github&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,maven,git,github&theme=dark)](https://skillicons.dev)
 
-<sub>Security & concepts: OAuth2 · JWT (RS256) · RBAC · Argon2 / BCrypt · HMAC · REST API design · Vector search · Microservices</sub>
+<sub>Security: OAuth2 · JWT (RS256) · RBAC · Argon2 / BCrypt · HMAC &nbsp;|&nbsp; Also used in projects: Python · Next.js</sub>
 
 </div>
 
